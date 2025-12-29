@@ -1,104 +1,100 @@
-# Student Registration & Login System (Java Swing)
+# 🎓 Student Registration & Login System (Java Swing)
 
-A simple and efficient desktop application built with **Java Swing** and **SQLite**, allowing students to register, log in using their Student ID, and view their stored biodata on a personal dashboard.
-
----
-
-## Features
-
-- Student **Registration** with unique ID and password
-- **Login Authentication**
-- **Dashboard** to display student biodata
-- Data stored using **SQLite database (`students.db`)**
-- UI built using **Java Swing**
+A lightweight desktop application built using **Java Swing** that allows students to register, log in securely, and view their biodata through a personal dashboard.
 
 ---
 
-## Project Structure
+## 🚀 Features
 
+* **Student Registration** with unique Student ID and password
+* **Secure Login Authentication**
+* **Student Dashboard** displaying registered biodata
+* **SQLite Database (`students.db`)** for storing student records
+* Beginner-friendly UI built with **Java Swing**
+
+---
+
+## 🗂 Project Structure
+
+```
 studentlogin/
 │── bin/
-│ └── studentlogin/
-│ ├── DatabaseManager.class
-│ ├── LoginPage.class
-│ ├── RegisterPage.class
-│ ├── StudentDashboard.class
+│   └── studentlogin/
+│       ├── DatabaseManager.class
+│       ├── LoginPage.class
+│       ├── RegisterPage.class
+│       ├── StudentDashboard.class
 │
 │── src/
-│ └── studentlogin/
-│ ├── DatabaseManager.java
-│ ├── LoginPage.java
-│ ├── RegisterPage.java
-│ ├── StudentDashboard.java
+│   └── studentlogin/
+│       ├── DatabaseManager.java
+│       ├── LoginPage.java
+│       ├── RegisterPage.java
+│       ├── StudentDashboard.java
 │
 │── students.db
 │── README.md
-
-yaml
-Copy code
+```
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-| Component | Used Technology |
-|---------|----------------|
-| Programming Language | Java |
-| UI | Java Swing |
-| Database | SQLite |
-| Authentication | Student ID + Password |
-
----
-
-## What this project does
-
-- Registers student information and saves it in the database
-- Authenticates login credentials
-- Displays stored student details on the dashboard
+| Component      | Technology                                                |
+| -------------- | --------------------------------------------------------- |
+| Language       | Java                                                      |
+| UI Framework   | Swing (JFrame, JPanel, JLabel, JTextField, JButton, etc.) |
+| Database       | SQLite                                                    |
+| Authentication | Student ID + Password                                     |
 
 ---
 
-## What I learned
+## 📚 Learning Outcomes
 
-- Implementing **User Authentication in Java**
-- Designing UIs using **Java Swing**
-- Working with **SQLite database**
-- Debugging and improving application flow
+Through building this project, I gained hands-on experience in:
+
+* Implementing **user authentication** in Java
+* Designing functional UIs using **Java Swing**
+* Connecting Java applications with **SQLite database**
+* Debugging, fixing UI bugs, and improving workflow through experimentation
 
 ---
 
-## How to Run
+## ▶ How to Run the Project
 
 1. Clone the repository:
+
+```bash
 git clone <repo-link>
+```
 
-markdown
-Copy code
-
-2. Open the project in any Java IDE
-3. Add SQLite JDBC to classpath if required
+2. Open the project in any Java IDE (Eclipse, IntelliJ, NetBeans, VS Code)
+3. Add **SQLite JDBC** to classpath if required
 4. Run the application:
+
+```bash
 src/studentlogin/LoginPage.java
-
-yaml
-Copy code
+```
 
 ---
 
-## Contributing
+## 📸 Preview (Optional)
 
-Suggestions and improvements are welcome! Feel free to open an issue or create a pull request.
+You can later insert UI screenshots here:
+
+```
+![Login UI](image_link_here)
+![Dashboard UI](image_link_here)
+```
 
 ---
 
-## License
+## 🤝 Contributing
 
-MIT License — Free to use and modify.
+Suggestions and improvements are welcome! Feel free to open an **issue** or submit a **pull request**.
 
 ---
 
-## Acknowledgements
+## 📝 License
 
-- Java Swing documentation
-- SQLite database
-- Community tutorials and debugging references
+This project is open-source and available under the **MIT License**.
