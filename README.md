@@ -81,8 +81,8 @@ src/studentlogin/LoginPage.java
 ## 📸 Preview
 
 ![Login Screen](assets/login.png)
-![Student Dashboard](assets/dashboard.png)
 ![Registration Screen](assets/registration.png)
+![Student Dashboard](assets/dashboard.png)
 
 
 ---
