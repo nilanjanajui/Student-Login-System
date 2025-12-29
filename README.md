@@ -65,7 +65,7 @@ Through building this project, I gained hands-on experience in:
 1. Clone the repository:
 
 ```bash
-git clone <repo-link>
+git clone https://github.com/nilanjanajui/Student-Login-System.git
 ```
 
 2. Open the project in any Java IDE (Eclipse, IntelliJ, NetBeans, VS Code)
