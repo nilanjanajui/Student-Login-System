@@ -78,17 +78,12 @@ src/studentlogin/LoginPage.java
 
 ---
 
-## 📸 Preview (Optional)
-
-You can later insert UI screenshots here:
-
-```
-## Preview
+## 📸 Preview
 
 ![Login Screen](assets/login.png)
 ![Student Dashboard](assets/dashboard.png)
 ![Registration Screen](assets/registration.png)
-```
+
 
 ---
 
