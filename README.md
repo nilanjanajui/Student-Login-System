@@ -83,8 +83,11 @@ src/studentlogin/LoginPage.java
 You can later insert UI screenshots here:
 
 ```
-![Login UI](image_link_here)
-![Dashboard UI](image_link_here)
+## Preview
+
+![Login Screen](assets/login.png)
+![Student Dashboard](assets/dashboard.png)
+![Registration Screen](assets/registration.png)
 ```
 
 ---
